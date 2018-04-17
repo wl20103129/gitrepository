@@ -3,3 +3,4 @@ git add test
 git edit first
 
 git edit second
+git edit third
